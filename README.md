@@ -9,5 +9,4 @@ As an engineering problem, we wanted to focus on 2 things: creating an experienc
 as well as Creating a comfortable environment where people can meet people of like minds. 
 Backend Using Django framework.
 
-Final Project blog article: https://docs.google.com/document/d/AcLSFNivGXo5DnoPqAdVxHB7qQrUvxjgXxmrGhEFH6v4/edit?usp=sharing
 Author's LinkedIn : https://www.linkedin.com/in/obinna-nwaneri-b107b9165/
